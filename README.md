@@ -1,2 +1,25 @@
 # linux_console
-This is a linux console 'simulator'
+
+This program simulates a linux console with basic commands:
+
+- cd
+
+- mkdir
+
+- ls
+
+- pwd
+
+- rm
+
+- cat
+
+- nano
+
+- ln
+
+- help
+
+- clear
+
+- :end
